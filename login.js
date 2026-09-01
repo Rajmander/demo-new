@@ -1,1 +1,1 @@
-console.log("logged in ....");
+console.log("logged in");
